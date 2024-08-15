@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|d:\\c#\\webapplication2\\webapplication2\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|d:\\c#\\webapplication2\\webapplication2\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|d:\\c#\\webapplication2\\webapplication2\\webform2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform2.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|d:\\c#\\webapplication2\\webapplication2\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|D:\\C#\\WebApplication2\\webapplication2\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|D:\\C#\\WebApplication2\\webapplication2\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D719F661-9D89-44F1-9C4A-14FEFF988B7A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx.designer.cs",
+              "DocumentMoniker": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm2.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WebForm2.aspx.designer.cs",
+              "ToolTip": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm2.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication2\\WebForm2.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:46:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WebForm2.aspx.cs",
+              "ToolTip": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm2.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\WebForm2.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:45:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\WebForm2.aspx",
+              "ToolTip": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm2.aspx",
+              "RelativeToolTip": "WebApplication2\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-29T18:33:36.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WebForm1.aspx.designer.cs",
+              "ToolTip": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "WebApplication2\\WebForm1.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:56:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:56:45.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\WebForm1.aspx",
+              "ToolTip": "D:\\C#\\WebApplication2\\WebApplication2\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication2\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-28T19:56:37.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
