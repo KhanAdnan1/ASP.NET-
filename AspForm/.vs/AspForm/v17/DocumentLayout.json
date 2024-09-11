@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\AspForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F97717-F9FB-4FB9-8B27-EBCC97B82F46}|AspForm\\AspForm.vbproj|d:\\c#\\aspform\\aspform\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{01F97717-F9FB-4FB9-8B27-EBCC97B82F46}|AspForm\\AspForm.vbproj|solutionrelative:aspform\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F97717-F9FB-4FB9-8B27-EBCC97B82F46}|AspForm\\AspForm.vbproj|d:\\c#\\aspform\\aspform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{01F97717-F9FB-4FB9-8B27-EBCC97B82F46}|AspForm\\AspForm.vbproj|solutionrelative:aspform\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F97717-F9FB-4FB9-8B27-EBCC97B82F46}|AspForm\\AspForm.vbproj|d:\\c#\\aspform\\aspform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{01F97717-F9FB-4FB9-8B27-EBCC97B82F46}|AspForm\\AspForm.vbproj|solutionrelative:aspform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 267,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C#\\AspForm\\AspForm\\Web.config",
+              "RelativeDocumentMoniker": "AspForm\\Web.config",
+              "ToolTip": "D:\\C#\\AspForm\\AspForm\\Web.config",
+              "RelativeToolTip": "AspForm\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-14T14:51:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\C#\\AspForm\\AspForm\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "AspForm\\WebForm1.aspx",
+              "ToolTip": "D:\\C#\\AspForm\\AspForm\\WebForm1.aspx",
+              "RelativeToolTip": "AspForm\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-14T14:29:23.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\C#\\AspForm\\AspForm\\packages.config",
+              "RelativeDocumentMoniker": "AspForm\\packages.config",
+              "ToolTip": "D:\\C#\\AspForm\\AspForm\\packages.config",
+              "RelativeToolTip": "AspForm\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-14T14:22:53.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
