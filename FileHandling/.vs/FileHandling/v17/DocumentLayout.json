@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\FileHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|d:\\c#\\filehandling\\filehandling\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|d:\\c#\\filehandling\\filehandling\\writefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\writefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|d:\\c#\\filehandling\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|d:\\c#\\filehandling\\filehandling\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8B131A-E12E-4F2C-B3DB-3CF3C944A258}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\C#\\FileHandling\\FileHandling\\Emp.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Emp.cs",
+              "ToolTip": "D:\\C#\\FileHandling\\FileHandling\\Emp.cs",
+              "RelativeToolTip": "FileHandling\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T20:39:23.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadData.cs",
+              "DocumentMoniker": "D:\\C#\\FileHandling\\FileHandling\\ReadData.cs",
+              "RelativeDocumentMoniker": "FileHandling\\ReadData.cs",
+              "ToolTip": "D:\\C#\\FileHandling\\FileHandling\\ReadData.cs",
+              "RelativeToolTip": "FileHandling\\ReadData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:34:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WriteFile.cs",
+              "DocumentMoniker": "D:\\C#\\FileHandling\\FileHandling\\WriteFile.cs",
+              "RelativeDocumentMoniker": "FileHandling\\WriteFile.cs",
+              "ToolTip": "D:\\C#\\FileHandling\\FileHandling\\WriteFile.cs",
+              "RelativeToolTip": "FileHandling\\WriteFile.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T19:04:12.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\FileHandling\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Program.cs",
+              "ToolTip": "D:\\C#\\FileHandling\\FileHandling\\Program.cs",
+              "RelativeToolTip": "FileHandling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:59:36.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
