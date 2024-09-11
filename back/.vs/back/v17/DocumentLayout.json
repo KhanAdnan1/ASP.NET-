@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|d:\\c#\\back\\back\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|d:\\c#\\back\\back\\webusercontrol1.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\webusercontrol1.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|d:\\c#\\back\\back\\webusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\webusercontrol1.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|d:\\c#\\back\\back\\multiview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\multiview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|D:\\C#\\back\\back\\multiview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\multiview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|D:\\C#\\back\\back\\formvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\formvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|D:\\C#\\back\\back\\formvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\formvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|D:\\C#\\back\\back\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|D:\\C#\\back\\back\\auto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\auto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|D:\\C#\\back\\back\\auto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33AFBDD2-7B55-41BF-97A0-858C9C0C7598}|back\\back.csproj|solutionrelative:back\\auto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\C#\\back\\back\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "back\\WebForm1.aspx",
+              "ToolTip": "D:\\C#\\back\\back\\WebForm1.aspx",
+              "RelativeToolTip": "back\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T02:09:04.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebUserControl1.ascx.cs",
+              "DocumentMoniker": "D:\\C#\\back\\back\\WebUserControl1.ascx.cs",
+              "RelativeDocumentMoniker": "back\\WebUserControl1.ascx.cs",
+              "ToolTip": "D:\\C#\\back\\back\\WebUserControl1.ascx.cs",
+              "RelativeToolTip": "back\\WebUserControl1.ascx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:51:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebUserControl1.ascx",
+              "DocumentMoniker": "D:\\C#\\back\\back\\WebUserControl1.ascx",
+              "RelativeDocumentMoniker": "back\\WebUserControl1.ascx",
+              "ToolTip": "D:\\C#\\back\\back\\WebUserControl1.ascx",
+              "RelativeToolTip": "back\\WebUserControl1.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-20T01:48:21.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiView.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\back\\back\\MultiView.aspx.cs",
+              "RelativeDocumentMoniker": "back\\MultiView.aspx.cs",
+              "ToolTip": "D:\\C#\\back\\back\\MultiView.aspx.cs",
+              "RelativeToolTip": "back\\MultiView.aspx.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwCsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:44:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiView.aspx",
+              "DocumentMoniker": "D:\\C#\\back\\back\\MultiView.aspx",
+              "RelativeDocumentMoniker": "back\\MultiView.aspx",
+              "ToolTip": "D:\\C#\\back\\back\\MultiView.aspx",
+              "RelativeToolTip": "back\\MultiView.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-18T12:38:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C#\\back\\back\\Web.config",
+              "RelativeDocumentMoniker": "back\\Web.config",
+              "ToolTip": "D:\\C#\\back\\back\\Web.config",
+              "RelativeToolTip": "back\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-16T19:14:27.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormValidation.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\back\\back\\FormValidation.aspx.cs",
+              "RelativeDocumentMoniker": "back\\FormValidation.aspx.cs",
+              "ToolTip": "D:\\C#\\back\\back\\FormValidation.aspx.cs",
+              "RelativeToolTip": "back\\FormValidation.aspx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T18:45:07.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormValidation.aspx",
+              "DocumentMoniker": "D:\\C#\\back\\back\\FormValidation.aspx",
+              "RelativeDocumentMoniker": "back\\FormValidation.aspx",
+              "ToolTip": "D:\\C#\\back\\back\\FormValidation.aspx",
+              "RelativeToolTip": "back\\FormValidation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-16T18:38:44.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "auto.aspx.cs",
+              "DocumentMoniker": "D:\\C#\\back\\back\\auto.aspx.cs",
+              "RelativeDocumentMoniker": "back\\auto.aspx.cs",
+              "ToolTip": "D:\\C#\\back\\back\\auto.aspx.cs",
+              "RelativeToolTip": "back\\auto.aspx.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:09:04.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auto.aspx",
+              "DocumentMoniker": "D:\\C#\\back\\back\\auto.aspx",
+              "RelativeDocumentMoniker": "back\\auto.aspx",
+              "ToolTip": "D:\\C#\\back\\back\\auto.aspx",
+              "RelativeToolTip": "back\\auto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-15T18:56:21.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
