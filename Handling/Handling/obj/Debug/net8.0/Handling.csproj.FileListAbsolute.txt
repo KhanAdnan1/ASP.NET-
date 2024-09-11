@@ -1,0 +1,14 @@
+D:\C#\Handling\Handling\bin\Debug\net8.0\Handling.exe
+D:\C#\Handling\Handling\bin\Debug\net8.0\Handling.deps.json
+D:\C#\Handling\Handling\bin\Debug\net8.0\Handling.runtimeconfig.json
+D:\C#\Handling\Handling\bin\Debug\net8.0\Handling.dll
+D:\C#\Handling\Handling\bin\Debug\net8.0\Handling.pdb
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.AssemblyInfoInputs.cache
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.AssemblyInfo.cs
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.csproj.CoreCompileInputs.cache
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.dll
+D:\C#\Handling\Handling\obj\Debug\net8.0\refint\Handling.dll
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.pdb
+D:\C#\Handling\Handling\obj\Debug\net8.0\Handling.genruntimeconfig.cache
+D:\C#\Handling\Handling\obj\Debug\net8.0\ref\Handling.dll

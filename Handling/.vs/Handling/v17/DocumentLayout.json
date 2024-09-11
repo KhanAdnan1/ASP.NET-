@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5C3E20-8805-4FF3-8415-582C7E833FEF}|Handling\\Handling.csproj|d:\\c#\\handling\\handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5C3E20-8805-4FF3-8415-582C7E833FEF}|Handling\\Handling.csproj|solutionrelative:handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5C3E20-8805-4FF3-8415-582C7E833FEF}|Handling\\Handling.csproj|d:\\c#\\handling\\handling\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5C3E20-8805-4FF3-8415-582C7E833FEF}|Handling\\Handling.csproj|solutionrelative:handling\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 428,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "D:\\C#\\Handling\\Handling\\CustomException.cs",
+              "RelativeDocumentMoniker": "Handling\\CustomException.cs",
+              "ToolTip": "D:\\C#\\Handling\\Handling\\CustomException.cs",
+              "RelativeToolTip": "Handling\\CustomException.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:38:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Handling\\Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Handling\\Program.cs",
+              "ToolTip": "D:\\C#\\Handling\\Handling\\Program.cs",
+              "RelativeToolTip": "Handling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:13:44.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
